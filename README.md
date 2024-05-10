@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/6819687e-a31a-487d-8bc7-dda05e91cbc4">
+</div>
 
-Personal neovim dotsfile, made with the aim of maximizing efficiency when programming and obtaining a minimalistic and fast configuration that allows you to be productive.
---- 
+This configuration is based on [💤 lazy.nvim](https://github.com/folke/lazy.nvim), modified with the aim of maximizing efficiency when programming and obtaining a minimalistic configuration that allows you to be productive.
 
-![image](https://github.com/JoseMRodriguezM/Neovim-configuration/assets/76118394/bd209e17-c2a2-44f6-92dc-8d8d98db3abe)
-![image](https://github.com/JoseMRodriguezM/Neovim-configuration/assets/76118394/627edb12-ad3c-4cfc-b336-8f57acabe05e)
-![image](https://github.com/JoseMRodriguezM/Neovim-configuration/assets/76118394/55bf94cc-f13d-40a8-b686-4bbf69308095)
+![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/3374d559-f48e-451b-bac6-db09ad491398)
+
+![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/3082ba00-c997-406d-9095-d50badd5575d)
+
+![image](https://github.com/JoseMRodriguezM/NvimDotfiles/assets/76118394/6b4d9fbf-c3ee-4b85-a4e9-7d24b155085c)
 
 
 ## ⚡️ Requirements
@@ -53,12 +57,17 @@ Personal neovim dotsfile, made with the aim of maximizing efficiency when progra
 ## 📂 File Structure
 
 <pre>
-C:\Users\user\AppData\Local\nvim
+~/.config/nvim
 ├── lua
 │   ├── config
+│   │   ├── autocmds.lua
 │   │   ├── keymaps.lua
+│   │   ├── lazy.lua
 │   │   └── options.lua
 │   └── plugins
-│       |── All the plugins installed and their configurations
+│       ├── spec1.lua
+│       ├── **
+│       └── spec2.lua
 └── init.lua
 </pre>
+
