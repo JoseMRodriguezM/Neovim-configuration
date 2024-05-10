@@ -35,7 +35,7 @@ This configuration is based on [💤 lazy.nvim](https://github.com/folke/lazy.nv
 - Clone the repositori
 
   ```sh
-  git clone https://github.com/JoseMRodriguezM/NvimDotfiles.git ~/.config/nvim
+  git clone https://github.com/JoseMRodriguezM/Neovim-configuration.git ~/.config/nvim
   ```
 
 - Remove the `.git` folder, so you can add it to your own repo later
