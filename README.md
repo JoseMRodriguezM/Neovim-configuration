@@ -1,8 +1,9 @@
 
 Personal neovim dotsfile, made with the aim of maximizing efficiency when programming and obtaining a minimalistic and fast configuration that allows you to be productive.
 --- 
-![image](https://github.com/JoseMRodriguezM/Neovim-configuration/assets/76118394/627edb12-ad3c-4cfc-b336-8f57acabe05e)
+
 ![image](https://github.com/JoseMRodriguezM/Neovim-configuration/assets/76118394/bd209e17-c2a2-44f6-92dc-8d8d98db3abe)
+![image](https://github.com/JoseMRodriguezM/Neovim-configuration/assets/76118394/627edb12-ad3c-4cfc-b336-8f57acabe05e)
 ![image](https://github.com/JoseMRodriguezM/Neovim-configuration/assets/76118394/55bf94cc-f13d-40a8-b686-4bbf69308095)
 
 
